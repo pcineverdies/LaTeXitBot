@@ -3,7 +3,7 @@ Get images of LaTeX expressions w/ this telegram bot
 
 link: https://t.me/LaTeXitbot (offline)
 
-```
+```latex
 /latexit \begin{align*}|x+y|&\leq|x|+|y|\\{|x+y|}^2&\leq{|x|}^2+{|y|}^2+2|x||y|\\{|x|}^2+{|y|}^2+2xy&\leq{|x|}^2+{|y|}^2+2|x||y|\\2xy&\leq2|x||y|\\xy&\leq|x||y|\\xy&\leq\boxed{|xy|\leq|x||y|}\end{align*
 ```
 
